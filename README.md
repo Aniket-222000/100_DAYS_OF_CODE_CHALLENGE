@@ -40,8 +40,8 @@ Solving Problem On DSA(on the go).
 
 ### :date: _DAY 1_
 
-- :calendar: 28-02-2023 
-- Basic Syntax
+:calendar: 28-02-2023 
+- Basic Syntax Of Java
 - Language Fundamentals
 
   - [x] Identifiers
