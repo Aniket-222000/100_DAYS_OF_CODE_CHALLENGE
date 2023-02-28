@@ -37,3 +37,16 @@ Solving Problem On DSA(on the go).
 ---
 
 ## :chart_with_upwards_trend: 100DaysOfCode Day-to-Day Progress
+
+### :date: _DAY 1_
+
+- :calendar: 28-02-2023 
+- Basic Syntax
+- Language Fundamentals
+
+  - [x] Identifiers
+  - [x] Data Types
+
+   
+
+
